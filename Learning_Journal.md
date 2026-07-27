@@ -48,7 +48,43 @@
 15. Largest of Four Numbers
 
 ### What I Learned
-Today I learned how to make decisions in Python using if, elif, else, and logical operators. I also practiced solving problems by combining multiple conditions.
+Today I learned how to make decisions in Python using if, elif, else, and logical operators. I also practiced solving 
+problems by combining multiple conditions.
+
+## Day 3 Summary
+
+### Topics Learned
+- for loop
+- while loop
+- range()
+- Nested loops
+- break
+- continue
+- Number patterns
+- Star patterns
+- Factorial
+- Prime numbers
+- Fibonacci series
+
+### Programs Completed
+1. Print numbers 1–10
+2. Print numbers 10–1
+3. Even numbers
+4. Odd numbers
+5. Sum of first N numbers
+6. Multiplication table
+7. Factorial
+8. Count digits
+9. Reverse a number
+10. Palindrome checker
+11. Prime number checker
+12. Prime numbers (1–100)
+13. Fibonacci series
+14. Star pattern
+15. Number pattern
+
+### Status
+✅ Day 3 Completed
 
 ### Status
 ✅ Day 2 Completed
